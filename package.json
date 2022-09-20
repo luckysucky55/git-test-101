@@ -1,0 +1,14 @@
+{
+  "name": "ufathai ทางเข้า",
+  "theme": "syntax",
+  "version": "0.1.1",
+  "description": "ufathai ทางเข้า แทงบอลฟรีเครดิต 100 บาท เปิดให้เล่น 24 ชั่วโมง",
+  "keywords": [
+    "ufathai ทางเข้า"
+  ],
+  "repository": "https://github.com/werunmarathon/saboho94",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
